@@ -1,0 +1,12 @@
+@CHARSET "ISO-8859-1";
+.card{
+	display:flex;
+	text-align:center;
+}
+.footer {
+  position: bottom;
+ 
+  top: 100vh;
+}
+
+
